@@ -3,3 +3,7 @@ This is a plain old text file that I want to commit.
 # added more verbiage 12-NOV-2022
 
 Here are some more added words. This should fix the issue.
+
+# trying to commit with -m flag and using VIM
+
+More filler!
